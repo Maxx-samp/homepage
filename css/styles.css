@@ -1,0 +1,28 @@
+body {
+    background: rgb(230, 227, 227);
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid rgba(0,123,255,.25);;
+}
+
+.center-page {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.page-404 {
+    font-size: 100px;
+}
+
+footer {
+    margin-top: 25px;
+    border: 1px solid rgba(0,123,255,.25);
+    height: 50px;
+}
+
+footer p {
+    padding-top: 10px;
+}
